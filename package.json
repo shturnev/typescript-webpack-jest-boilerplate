@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "dev": "webpack-dev-server --open"
+  },
+  "dependencies": {
+    "ts-loader": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.6",
+    "@types/lodash": "^4.14.121",
+    "jest": "^24.1.0",
+    "ts-jest": "^24.0.0",
+    "typescript": "^3.3.3",
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.0"
+  },
+  "test": "jest"
+}
