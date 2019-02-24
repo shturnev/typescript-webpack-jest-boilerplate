@@ -15,5 +15,8 @@
     "webpack-cli": "^3.2.3",
     "webpack-dev-server": "^3.2.0"
   },
-  "test": "jest"
+  "test": "jest",
+  "jest": {
+    "testEnvironment": "node"
+  }
 }
